@@ -1,2 +1,2 @@
-# Docement-Classifier
+# Document-Classifier
 A SVM-based Document classifier
